@@ -1,0 +1,6 @@
+crossplane
+ops[tracing]
+pydantic
+lightkube>=v0.15.4
+cosl>=1
+cryptography

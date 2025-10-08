@@ -1,0 +1,7 @@
+pyyaml
+sh
+typer
+fsspec
+requests
+treelib
+pydantic
